@@ -1,6 +1,6 @@
 # Shieldfy Official Nodejs Client | WIP
 
-## This package still in the development PHASE 
+## This package still in the development PHASE   
 
 ```js
 require('./shieldfy').start({
